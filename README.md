@@ -1,1 +1,1 @@
-In this project i will try to create a simple html webpage about the recipes i like
+visualise it [here](https://rehmansohail.github.io/odin-recipes/)
