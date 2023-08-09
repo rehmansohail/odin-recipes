@@ -1,16 +1,14 @@
-body{
-    background-color: darkkhaki;
+*{
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.b1{
-    background-color: salmon;
+p{
+    color: antiquewhite;
 }
-.b2{
-    background-color: lightgreen;
+li{
+    color: beige;
 }
-.b3{
-    background-color: lightpink;
-}
-.i1{
-    width: 500px;
+img{
     height: auto;
+    width: 500px;
 }
